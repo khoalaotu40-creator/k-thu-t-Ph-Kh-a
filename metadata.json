@@ -1,0 +1,8 @@
+{
+  "name": "Fast Login Utils",
+  "description": "A quick 2FA and credential access utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
